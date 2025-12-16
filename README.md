@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 💫 About Me:<br>
 
-PT-BR
+PT-BR<br>
 Oi, eu me chamo Sandro Moraes. Atualmente sou estudante de Ciências da Computação e Pesquisador Acadêmico.<br>
 
 👩‍💻 Sempre aprendendo algo novo sobre back-end<br>
@@ -8,7 +8,7 @@ Oi, eu me chamo Sandro Moraes. Atualmente sou estudante de Ciências da Computa�
 👀  Estou atualmente me aprofundando na area de dados utilizando três livros que são: SQL para Análise de Dados, Fundamentos da Qualidade de Dados, Storytelling com dados.<br>
 💬 Caso tenha se interessado, me mande um email: sannmoraes@gmail.com<br>
 
-EN-US
+EN-US<br>
 Hi, I'm Sandro Moraes. I am currently a Computer Science student and Academic Researcher.<br>
 
 👩‍💻 Always learning something new about backend.<br>
