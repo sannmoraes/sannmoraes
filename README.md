@@ -3,17 +3,17 @@
 PT-BR
 Oi, eu me chamo Sandro Moraes. Atualmente sou estudante de Ciências da Computação e Pesquisador Acadêmico.<br>
 
-👩‍💻 Sempre aprendendo algo novo sobre back-end
-💻 Atualmente estou com um projeto proprio onde estou fazendo um software para analise e visualização grafica de trafego urbano para linhas de onibus
-👀  Estou atualmente me aprofundando na area de dados utilizando três livros que são: SQL para Análise de Dados, Fundamentos da Qualidade de Dados, Storytelling com dados.
+👩‍💻 Sempre aprendendo algo novo sobre back-end<br>
+💻 Atualmente estou com um projeto proprio onde estou fazendo um software para analise e visualização grafica de trafego urbano para linhas de onibus<br>
+👀  Estou atualmente me aprofundando na area de dados utilizando três livros que são: SQL para Análise de Dados, Fundamentos da Qualidade de Dados, Storytelling com dados.<br>
 💬 Caso tenha se interessado, me mande um email: sannmoraes@gmail.com<br>
 
 EN-US
 Hi, I'm Sandro Moraes. I am currently a Computer Science student and Academic Researcher.<br>
 
-👩‍💻 Always learning something new about backend
-💻 I am currently working on my own project where I am developing software for the analysis and graphical visualization of urban traffic for bus lines.
-👀 I am currently deepening my knowledge in the area of ​​data using three books: SQL for Data Analysis, Fundamentals of Data Quality, and Storytelling with Data.
+👩‍💻 Always learning something new about backend.<br>
+💻 I am currently working on my own project where I am developing software for the analysis and graphical visualization of urban traffic for bus lines.<br>
+👀 I am currently deepening my knowledge in the area of ​​data using three books: SQL for Data Analysis, Fundamentals of Data Quality, and Storytelling with Data.<br>
 💬 If you are interested, send me an email: sannmoraes<br><br>
 
 
