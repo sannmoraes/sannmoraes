@@ -27,7 +27,7 @@ Hi, I'm Sandro Moraes. I am currently a Computer Science student and Academic Re
 
 ![](https://github-readme-stats-sa-nn.vercel.app/api?username=sannmoraes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sannmoraes&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats-sa-nn.vercel.app/api?username=sannmoraes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-sa-nn.vercel.app/api?username=sannmoraes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sannmoraes&icon=0&color=0)](https://visitcount.itsvg.in)
